@@ -1,1 +1,1 @@
-# diabetes_detection
+The Diabetes Detection Website is a health-focused web application designed to help users assess their risk of diabetes through an easy-to-use online platform. Using data-driven predictive modeling, the website allows users to input basic health metrics and receive a result that indicates the likelihood of having or developing diabetes. This tool aims to promote awareness, early detection, and preventive care.
